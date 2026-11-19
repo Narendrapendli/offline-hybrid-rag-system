@@ -231,7 +231,7 @@ python --version   # Should be 3.8 or higher
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Bhogeswarareddy/offline-hybrid-rag-system.git
+git clone https://github.com/Narendrapendli/offline-hybrid-rag-system.git
 cd offline-hybrid-rag-system
 
 # 2. Install dependencies
@@ -459,10 +459,10 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ## 👨‍💻 Author
 
-**Bhogeswara Reddy**
+**Narendra Pendli**
 
-- GitHub: [@Bhogeswarareddy](https://github.com/Bhogeswarareddy)
-- Repository: [offline-hybrid-rag-system](https://github.com/Bhogeswarareddy/offline-hybrid-rag-system)
+- GitHub: [@Narendrapendli](https://github.com/Narendrapendli)
+- Repository: [offline-hybrid-rag-system](https://github.com/Narendrapendli/offline-hybrid-rag-system)
 
 ---
 
